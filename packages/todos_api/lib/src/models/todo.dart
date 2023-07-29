@@ -9,6 +9,7 @@ import 'package:uuid/uuid.dart';
 part 'todo.g.dart';
 
 // ignore_for_file: public_member_api_docs, sort_constructors_first
+// ignore: flutter_style_todos
 @immutable
 @JsonSerializable()
 class Todo extends Equatable {
